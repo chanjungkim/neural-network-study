@@ -16,3 +16,16 @@ git clone https://github.com/mnielsen/neural-networks-and-deep-learning.git
 ```
 
 # machine-learning-crash-course
+
+### Introduction to ML
+
+### Framing
+
+### Descending into ML
+
+### Reducing Loss
+
+full batch
+mini batch
+SGD
+TCU
