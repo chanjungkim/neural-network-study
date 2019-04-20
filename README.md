@@ -1,6 +1,7 @@
 # neural-network-study
 
 material: http://neuralnetworksanddeeplearning.com
+
 install: python3.x (required packages: Anaconda, numpy, theano)
 
 ```
